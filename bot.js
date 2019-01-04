@@ -2112,7 +2112,7 @@ client.on("message", message => {
 });
 
 var adminprefixs = '&'
-const devs1 = ['489860972757123102'];
+const devs1 = ['489860972757123102','477579086756052992'];
 
 client.on('message', message => {
     let argresult = message.content.split(` `).slice(1).join(' ');
